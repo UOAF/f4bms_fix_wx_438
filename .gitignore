@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+*.fmap
+*.grb
+*.grib
+
+f4wx-src/
+f4bms-fix-src/
